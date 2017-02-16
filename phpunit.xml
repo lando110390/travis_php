@@ -7,9 +7,4 @@
          stopOnFailures="false"
          syntaxCheck="false"
          >
-    <testsuites>
-        <testsuite name="Tutorial Unit Tests">
-            <directory>./tests/</directory>
-        </testsuite>
-    </testsuites>
 </phpunit>
