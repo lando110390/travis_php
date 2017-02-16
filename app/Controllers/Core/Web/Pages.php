@@ -12,7 +12,7 @@ class Pages
 
     }
 
-    public function returnTrue()
+    public function returnTrue(mess)
     {
 
         return true;
