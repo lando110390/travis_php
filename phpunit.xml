@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<phpunit>
-    <testsuites>
-        <testsuite name="Tutorial Unit Tests">
-            <file>tests/app/Controllers/Core/Web/PagesTest.php</file>
-        </testsuite>
-    </testsuites>
-</phpunit>
