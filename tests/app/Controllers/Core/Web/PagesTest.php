@@ -8,7 +8,7 @@ class PagesTest extends PHPUnit_Framework_TestCase
 
         $pages = new \Controllers\Core\Web\Pages();
 
-        $expected = 'Hello World';
+        $expected = 'Hello World'
 
         $this->assertEquals($expected, $pages->render());
 
