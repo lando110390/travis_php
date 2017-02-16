@@ -15,7 +15,7 @@ class Pages
     public function returnTrue(mess)
     {
 
-        return true;
+        return true
 
     }
 
